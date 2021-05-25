@@ -42,3 +42,8 @@
 .green {
   color: green
 }
+
+.footer {
+  margin-right: 5px;
+  float: right;
+}

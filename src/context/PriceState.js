@@ -7,14 +7,6 @@ import {
 
 const PriceState = (props) => {
 
-    // let coins= {
-    //     Bitcoin: {
-    //         LTP: 100,
-    //         CTP: 200,
-    //         PercentChange: 1,
-    //     }
-    // }
-
     const initialState = {
         coins: {}
     }
